@@ -1,5 +1,6 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
 
+// Import Semantic Kernel
 using System;
 using System.Collections.Generic;
 using System.IO;
